@@ -1,0 +1,16 @@
+@import './base.css';
+
+
+.app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.postsList {
+    padding: 12px;
+    max-width: 1024px;
+    width: 100%;
+}
